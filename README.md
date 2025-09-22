@@ -53,7 +53,8 @@ sav\_to\_csv/
 3. **Install dependencies**
 
    ```bash
-   pip install flask pyreadstat pandas
+   pip install -r requirements.txt
+
    ```
 
 ---
